@@ -6,10 +6,10 @@ body {
   text-align:center;
 }
 text {
-  width:250px
+  width:200px
   color:#FFD700;
   font-family:"Shadows Into Light" , sans-serif;
   padding:10px;
   background-color:black;
-  text-align:center;  
+  align:center;  
 }
