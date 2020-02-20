@@ -5,7 +5,7 @@ body {
   background-color:black;
   text-align:center;
 }
-text {
+.text {
   width:200px
   color:#FFD700;
   font-family:"Shadows Into Light" , sans-serif;
