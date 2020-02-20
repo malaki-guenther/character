@@ -1,7 +1,15 @@
 body {
-  color:#FFD700;
+  color:;
   font-family:"Shadows Into Light" , sans-serif;
   padding:10px;
   background-color:black;
   text-align:center;
+}
+text {
+  width:250px
+  color:#FFD700;
+  font-family:"Shadows Into Light" , sans-serif;
+  padding:10px;
+  background-color:black;
+  text-align:center;  
 }
