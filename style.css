@@ -2,10 +2,11 @@ body {
 
 }
 .text {
-  width:200px
+	width:450px
+  border:1px solid black;
   color:#FFD700;
   font-family:"Shadows Into Light" , sans-serif;
-  padding:10px;
+  padding:20px;
   background-color:black;
-  align:center;  
+  margin:auto;
 }
