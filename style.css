@@ -1,8 +1,13 @@
 body {
-  border:1px darkblue solid;
-  background-color:black;
+  background-color:darkblue;
   color:#FFD700;
-  font-family:"Shadows Into Light" , sans-serif;
-  padding:20px;
+  font-family: "Monaco" , sans-serif;
   margin:auto;
+}
+div {
+  border:3px solid #FFD700;
+  margin:auto;
+  width:450px;
+  overflow:auto;
+  padding 10px;
 }
