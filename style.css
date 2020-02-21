@@ -1,7 +1,8 @@
 body {
   background-color:#00004d;
   color:#FFD700;
-  font-family: "Monaco" , sans-serif;
+  font-family:"monaco","Consolas","Lucida Console",monospace,sans-serif; 
+;
   margin:auto;
 }
 div {
