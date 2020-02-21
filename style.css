@@ -1,4 +1,6 @@
 body {
+  border:1px darkblue solid;
+  background-color:black;
   color:#FFD700;
   font-family:"Shadows Into Light" , sans-serif;
   padding:20px;
