@@ -3,7 +3,9 @@ body {
   color:#FFD700;
   font-family:"monaco","Consolas","Lucida Console",monospace,sans-serif;
 ;
- 
+.center {
+  text-align: center;  
+}
 }
 div {
   border: 3px solid #FFD700;
