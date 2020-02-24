@@ -10,6 +10,7 @@ div {
   margin: auto;
   overflow: auto;
   padding 10px;
+  width:450px;
 }
 .page {
   length: 700px;
