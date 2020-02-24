@@ -1,18 +1,26 @@
 body {
   background-color:#00004d;
   color:#FFD700;
-  font-family:"monaco","Consolas","Lucida Console",monospace,sans-serif; 
+  font-family:"monaco","Consolas","Lucida Console",monospace,sans-serif;
 ;
-  margin:auto;
+ 
 }
 div {
   border:3px solid #FFD700;
   margin:auto;
-  width:600px;
   overflow:auto;
   padding 10px;
 }
 .page {
   length:700px;
   overflow:auto;
+  width:600px;
+}
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {
+  margin-left: auto;
+  margin-right: auto;
 }
