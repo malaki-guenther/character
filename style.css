@@ -12,3 +12,7 @@ div {
   overflow:auto;
   padding 10px;
 }
+.page {
+  length:700px;
+  overflow:auto;
+}
