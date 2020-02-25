@@ -3,7 +3,7 @@ body {
   color:#FFD700;
   font-family:"monaco","Consolas","Lucida Console",monospace,sans-serif;
 ;
-h1 {
+.title {
   text-align: center;
 }
 h5 {
