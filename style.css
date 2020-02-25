@@ -3,14 +3,6 @@ body {
   color:#FFD700;
   font-family:"monaco","Consolas","Lucida Console",monospace,sans-serif;
 ;
-
-div {
- border:3px solid #FFD700;
- margin:auto;
- width:450px;
- overflow:auto;
- padding:10px;
-}
 h1 {
   text-align: center;
 }
